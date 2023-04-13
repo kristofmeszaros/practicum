@@ -1,0 +1,9 @@
+categories_xml_filepath = './IceCat_Full/IceCat Specifications/CategoriesList.xml'
+feature_xml_filepath = './IceCat_Full/IceCat Specifications/CategoryFeaturesList.xml'
+data_dict_filepath = "./IceCat_Full/IceCat Dictionary.xml"
+feather_path = 'IceCat_Full/feather/'
+category_root = 'placeholder'
+cv_results_path = '/kristof.meszaros/pract/cv_results'
+aggregated_results_path = '/kristof.meszaros/pract/aggregated_results'
+mice_verbose = 0
+max_mice_iter = 30
